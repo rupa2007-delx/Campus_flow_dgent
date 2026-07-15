@@ -1,0 +1,14 @@
+{
+  "learning_support": {
+    "PYQs": "The 2025 Data Structures Previous Year Questions are stored in Drive Folder: /drives/cs-201/pyqs",
+    "notes": "Machine Learning lecture notes by Dr. Smith are available at /drives/cs-402/notes.pdf"
+  },
+  "events_update": {
+    "TechFest": "TechFest 2026 is happening on July 15th. Registration is currently open.",
+    "CulturalNight": "Cultural Night is scheduled for August 20th at the Main Auditorium."
+  },
+  "announcements": {
+    "attendance": "Mandatory update: Attendance cards must be submitted to the academic block by Friday.",
+    "emails": "Dean's announcement: Holiday declared on July 10th for the campus festival."
+  }
+}
